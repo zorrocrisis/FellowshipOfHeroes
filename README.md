@@ -14,7 +14,6 @@
 ***Fellowship of Heroes*** is tabletop, fantasy, role-playing **prototype expansion** for ["Dungeons & Dragons", by Wizards of the Coast](https://dnd.wizards.com/).
 
 ![Full](https://github.com/user-attachments/assets/3f3f561e-0b94-47f2-851c-c7923e4a2bb5)
-![prototype](https://github.com/user-attachments/assets/6f98308b-4743-484b-944a-0fc53ce60723)
 
 In *Fellowship of Heroes*, a group of 2-6 players (plus a dungeon master) take on the roles of adventurers who must face a challenging campaign full of unexpected quests and mighty enemies, whilst getting a foothold on the dangerous island of Skalus by **building a settlement** they can call their own.
 
@@ -37,6 +36,8 @@ Supporting developed documents:
 - Then, a complete [Game Treatment](https://github.com/zorrocrisis/FellowshipOfHeroes/blob/main/Game%20Treatment.pdf) document was developed as the expansion's physical prototype came to life. This document further explored the aforementioned topics, delving deeper into the target audience, with reference to the Demographic Game Design 1 (DGD1) model, the core gameplay loop, the experience, the progression, the player interaction and the surrounding fiction.
 
 - Aside from a cardboard platform which served as the base-building area, multiple paper pieces (e.g.: buildings, rivers and resource stockpiles) were printed to prototype and fine-tune the expansion through user testing. The feedback from these user testing sessions was promptly implemented into the game [Game Treatment](https://github.com/zorrocrisis/FellowshipOfHeroes/blob/main/Game%20Treatment.pdf) document.
+
+![prototype(1)](https://github.com/user-attachments/assets/afc08bc3-1eac-4067-b179-f5d2706f0243)
 
 ## **Owners of Copyright**
 
