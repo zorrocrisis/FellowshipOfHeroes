@@ -1,6 +1,7 @@
 ## **Fellowship of Heroes**
-
+![title](https://github.com/user-attachments/assets/5b83e0f5-c0a5-43d5-8c26-a5499517fe44)
 ![Full](https://github.com/user-attachments/assets/bbeac888-048f-47f6-9bde-e51b08dca485)
+![prototype](https://github.com/user-attachments/assets/9c6588e3-73a4-43ee-911f-52dd409f6787)
 
 
 ## **Motivation**
@@ -40,6 +41,8 @@ Supporting developed documents:
 
 - Aside from a cardboard platform which served as the base-building area, multiple paper pieces (e.g.: buildings, rivers and resource stockpiles) were printed to prototype and fine-tune the expansion through user testing. The feedback from these user testing sessions was promptly implemented into the game [Game Treatment](https://github.com/zorrocrisis/FellowshipOfHeroes/blob/main/Game%20Treatment.pdf) document.
 
-## **Authors and Acknowledgment**
+## **Owners of Copyright**
 
-Owners of Copyright: **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**, Afonso Ricardo (afonsogricardo@tecnico.ulisboa.pt) and Pedro Novais (pedro.novais@tecnico.ulisboa.pt).
+- **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**
+- Afonso Ricardo (afonsogricardo@tecnico.ulisboa.pt)
+- Pedro Novais (pedro.novais@tecnico.ulisboa.pt).
