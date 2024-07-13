@@ -1,11 +1,5 @@
 ## **𝕯𝖚𝖌𝖊𝖔𝖓𝖘 𝖆𝖓𝖉 𝕯𝖗𝖆𝖌𝖔𝖓𝖘: 𝕱𝖊𝖑𝖑𝖔𝖜𝖘𝖍𝖎𝖕 𝖔𝖋 𝕳𝖊𝖗𝖔𝖊𝖘**
 
-![Full](https://github.com/user-attachments/assets/bbeac888-048f-47f6-9bde-e51b08dca485)
-![prototype](https://github.com/user-attachments/assets/9c6588e3-73a4-43ee-911f-52dd409f6787)
-
-
-## **Motivation**
-
 *"Explore challenging dungeons, complete dangerous quests and face insurmountable odds with your ragtag team of adventurers, all the while **gathering precious resources to build and expand your home away from home - your very own settlement!***
 
 ***Plan an ever-growing community** by constructing buildings with different functions and hiring skilled hunters, blacksmiths and much more. Manage their resource production and turn a profit by sending your traders to sell extra materials to nearby towns. Convince other characters to join your ambitious camp, appoint leaders and take advantage of the bonuses they bring.*
@@ -18,6 +12,9 @@
 ## **Introduction**
 
 ***Fellowship of Heroes*** is tabletop, fantasy, role-playing **prototype expansion** for ["Dungeons & Dragons", by Wizards of the Coast](https://dnd.wizards.com/).
+
+![Full](https://github.com/user-attachments/assets/3f3f561e-0b94-47f2-851c-c7923e4a2bb5)
+
 
 In *Fellowship of Heroes*, a group of 2-6 players (plus a dungeon master) take on the roles of adventurers who must face a challenging campaign full of unexpected quests and mighty enemies, whilst getting a foothold on the dangerous island of Skalus by **building a settlement** they can call their own.
 
