@@ -6,22 +6,22 @@
 
 ## **Motivation**
 
-*"Explore challenging dungeons, complete dangerous quests and face insurmountable odds with your ragtag team of adventurers, all the while gathering precious resources to build and expand your home away from home - your very own settlement!*
+*"Explore challenging dungeons, complete dangerous quests and face insurmountable odds with your ragtag team of adventurers, all the while **gathering precious resources to build and expand your home away from home - your very own settlement!***
 
-*Plan an ever-growing community by constructing buildings with different functions and hiring skilled hunters, blacksmiths and much more. Manage their resource production and turn a profit by sending your traders to sell extra materials to nearby towns. Convince other characters to join your ambitious camp, appoint leaders and take advantage of the bonuses they bring.*
+***Plan an ever-growing community** by constructing buildings with different functions and hiring skilled hunters, blacksmiths and much more. Manage their resource production and turn a profit by sending your traders to sell extra materials to nearby towns. Convince other characters to join your ambitious camp, appoint leaders and take advantage of the bonuses they bring.*
 
-*But beware: no place is ever safe in the fantastical world of Dungeons and Dragons! Fight off packs of wolves that threaten your food stocks, build defensive fortifications to fend off greedy goblin attacks and heed any sign of conspiracies brewing amidst your fellow residents…*
+*But beware: no place is ever safe in the fantastical world of Dungeons and Dragons! **Fight off packs of wolves that threaten your food stocks, build defensive fortifications to fend off greedy goblin attacks and heed any sign of conspiracies brewing amidst your fellow residents…***
 
-*Slay, gather, defend, build! Lead by example your **Fellowship of Heroes**!"*
+***Slay, gather, defend, build! Lead by example your Fellowship of Heroes**!"*
 
 
 ## **Introduction**
 
-*Fellowship of Heroes* is tabletop, fantasy, role-playing prototype expansion for ["Dungeons & Dragons", by Wizards of the Coast](https://dnd.wizards.com/).
+***Fellowship of Heroes*** is tabletop, fantasy, role-playing **prototype expansion** for ["Dungeons & Dragons", by Wizards of the Coast](https://dnd.wizards.com/).
 
-In *Fellowship of Heroes*, a group of 2-6 players (plus a dungeon master) take on the roles of adventurers who must face a challenging campaign full of unexpected quests and mighty enemies, whilst getting a foothold on the dangerous island of Skalus by building a settlement they can call their own.
+In *Fellowship of Heroes*, a group of 2-6 players (plus a dungeon master) take on the roles of adventurers who must face a challenging campaign full of unexpected quests and mighty enemies, whilst getting a foothold on the dangerous island of Skalus by **building a settlement** they can call their own.
 
-Aside from the typical dungeon-crawling gameplay, the party of players are expected to develop their base camp by building structures with different benefits, upgrading them, defending them from enemies, selling excess materials and convincing characters they meet along the way to join their settlement.
+Aside from the typical dungeon-crawling gameplay, the party of players are expected to develop their base camp by **building structures with different benefits, upgrading them, defending them from enemies, selling excess materials and convincing characters they meet along the way to join their settlement**.
 
 This expansion aims to allow a group of players to experience first-hand what it means to build a thriving, living community inside an immersive fictional world, complemented by gameplay mechanisms that hook the players and motivate long-term investment.
 
