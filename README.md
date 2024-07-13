@@ -9,7 +9,7 @@
 ***Slay, gather, defend, build! Lead by example your Fellowship of Heroes**!"*
 
 
-## **Introduction**
+## **𝕴𝖓𝖙𝖗𝖔𝖉𝖚𝖈𝖙𝖎𝖔𝖓**
 
 ***Fellowship of Heroes*** is tabletop, fantasy, role-playing **prototype expansion** for ["Dungeons & Dragons", by Wizards of the Coast](https://dnd.wizards.com/).
 
@@ -27,7 +27,7 @@ Supporting developed documents:
 - [The Settlement Sheet](https://github.com/zorrocrisis/FellowshipOfHeroes/blob/main/Full%20Expansion/Settlement%20Sheet.pdf), which allows the players to keep track of structures built and upgrades implemented in their settlement;
 - [The Character Sheets](https://github.com/zorrocrisis/FellowshipOfHeroes/tree/main/Full%20Expansion/Characters), which have all the information related to three different playable characters (although player can play their own characters);
 
-## **Development Details**
+## **𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 𝕯𝖊𝖙𝖆𝖎𝖑𝖘**
 
 - This project encompassed the final evaluation component of the 2022/2023 edition of the Game Design course of Instituto Superior Técnico, University of Lisbon, having the goal of relaying the **importance of increasingly detailed game design documentation.**
 
@@ -39,7 +39,7 @@ Supporting developed documents:
 
 ![prototype(1)](https://github.com/user-attachments/assets/afc08bc3-1eac-4067-b179-f5d2706f0243)
 
-## **Owners of Copyright**
+## **𝕺𝖜𝖓𝖊𝖗𝖘 𝖔𝖋 𝕮𝖔𝖕𝖞𝖗𝖎𝖌𝖍𝖙**
 
 - **[Miguel Belbute (zorrocrisis)](https://github.com/zorrocrisis)**
 - Afonso Ricardo (afonsogricardo@tecnico.ulisboa.pt)
