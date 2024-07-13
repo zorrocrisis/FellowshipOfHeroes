@@ -14,7 +14,7 @@
 ***Fellowship of Heroes*** is tabletop, fantasy, role-playing **prototype expansion** for ["Dungeons & Dragons", by Wizards of the Coast](https://dnd.wizards.com/).
 
 ![Full](https://github.com/user-attachments/assets/3f3f561e-0b94-47f2-851c-c7923e4a2bb5)
-
+![prototype](https://github.com/user-attachments/assets/6f98308b-4743-484b-944a-0fc53ce60723)
 
 In *Fellowship of Heroes*, a group of 2-6 players (plus a dungeon master) take on the roles of adventurers who must face a challenging campaign full of unexpected quests and mighty enemies, whilst getting a foothold on the dangerous island of Skalus by **building a settlement** they can call their own.
 
